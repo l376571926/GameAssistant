@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <!--标题栏-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+        <!--标题栏,社区活动-->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="@string/community_activity"
+            android:textSize="30sp"/>
+        <!--信息-->
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_margin="10dp"
+            android:background="@drawable/select_ic_my_right"/>
+    </RelativeLayout>
+
+    <!--灰色水平分割线-->
+    <View style="@style/gray_horizontal_line"/>
+
+    <!--正文列表-->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <!--下部可流动列表-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <!--点击登录-->
+            <LinearLayout
+                android:id="@+id/my_click_login_ll"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@drawable/bg_giftdetail_head"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <!--左边头像-->
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="25dp"
+                    android:layout_marginRight="10dp"
+                    android:src="@drawable/ic_default_avatar"/>
+
+                <!--右边文字-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center_vertical"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="10dp"
+                        android:text="@string/click_login"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/click_login_detail"/>
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+            <!--用户中心横向列表-->
+            <!--礼包,活动,兑换,试玩-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <!--礼包-->
+                <RelativeLayout
+                    android:id="@+id/fragment_my_gift_rl"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="horizontal">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/ic_my_gife"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/gift"/>
+                    </LinearLayout>
+                    <!--灰色垂直分割线-->
+                    <View
+                        style="@style/gray_vertical_line"
+                        android:layout_alignParentRight="true"/>
+                </RelativeLayout>
+
+                <!--活动-->
+                <RelativeLayout
+                    android:id="@+id/fragment_my_activity_rl"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="horizontal">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/ic_my_activity"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/active"/>
+                    </LinearLayout>
+                    <!--灰色垂直分割线-->
+                    <View
+                        style="@style/gray_vertical_line"
+                        android:layout_alignParentRight="true"/>
+                </RelativeLayout>
+
+                <!--兑换-->
+                <RelativeLayout
+                    android:id="@+id/fragment_my_exchange_rl"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="horizontal">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/ic_my_convert"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/exchange"/>
+                    </LinearLayout>
+                    <!--灰色垂直分割线-->
+                    <View
+                        style="@style/gray_vertical_line"
+                        android:layout_alignParentRight="true"/>
+                </RelativeLayout>
+
+                <!--试玩-->
+                <RelativeLayout
+                    android:id="@+id/fragment_my_play_rl"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="horizontal">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/ic_my_test_paly"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/experience"/>
+                    </LinearLayout>
+                </RelativeLayout>
+            </LinearLayout>
+
+            <!--灰色水平分割线-->
+            <View style="@style/gray_horizontal_line"/>
+
+            <!--分割块-->
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="15dp"/>
+
+            <!--用户中心纵向列表-->
+
+            <!--灰色水平分割线-->
+            <View style="@style/gray_horizontal_line"/>
+            <!--我的任务-->
+            <RelativeLayout
+                android:id="@+id/fragment_my_task_rl"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_margin="10dp"
+                android:gravity="center_vertical">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent">
+                    <!--我的任务-->
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:background="@drawable/my_task"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="10dp"
+                        android:gravity="center"
+                        android:text="@string/my_task"/>
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/ic_next"/>
+            </RelativeLayout>
+
+            <!--灰色水平分割线-->
+            <View style="@style/gray_horizontal_line"/>
+
+            <!--微信抢红包-->
+            <RelativeLayout
+                android:id="@+id/fragment_my_letter_rl"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_margin="10dp"
+                android:gravity="center_vertical">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent">
+                    <!--我的任务-->
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:background="@drawable/icon_hongbao"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="10dp"
+                        android:gravity="center"
+                        android:text="@string/grab_red_bag"/>
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/ic_next"/>
+            </RelativeLayout>
+
+            <!--灰色水平分割线-->
+            <View style="@style/gray_horizontal_line"/>
+
+            <!--邀请好友-->
+            <RelativeLayout
+                android:id="@+id/fragment_my_invite_rl"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_margin="10dp"
+                android:gravity="center_vertical">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent">
+                    <!--我的任务-->
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:background="@drawable/my_invar"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="10dp"
+                        android:gravity="center"
+                        android:text="@string/invite_friend"/>
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/ic_next"/>
+            </RelativeLayout>
+
+            <!--灰色水平分割线-->
+            <View style="@style/gray_horizontal_line"/>
+
+            <!--休闲小游戏-->
+            <RelativeLayout
+                android:id="@+id/fragment_my_game_rl"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_margin="10dp"
+                android:gravity="center_vertical">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:background="@drawable/ic_mini_game"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="10dp"
+                        android:gravity="center"
+                        android:text="@string/mini_game"/>
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/ic_next"/>
+            </RelativeLayout>
+
+            <!--灰色水平分割线-->
+            <View style="@style/gray_horizontal_line"/>
+
+            <!--系统设置-->
+            <RelativeLayout
+                android:id="@+id/fragment_my_setup_rl"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_margin="10dp"
+                android:gravity="center_vertical">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent">
+                    <!--我的任务-->
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:background="@drawable/my_set"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="10dp"
+                        android:gravity="center"
+                        android:text="@string/system_setup"/>
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/ic_next"/>
+            </RelativeLayout>
+
+            <!--灰色水平分割线-->
+            <View style="@style/gray_horizontal_line"/>
+
+            <!--分割块-->
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="15dp"/>
+
+            <!--灰色水平分割线-->
+            <View style="@style/gray_horizontal_line"/>
+
+            <!--下方横幅广告-->
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp">
+                <!--左边图标-->
+                <ImageView
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:layout_marginLeft="10dp"
+                    android:background="@drawable/ic_launcher"/>
+                <!--中间内容-->
+                <LinearLayout
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="10dp"
+                        android:text="游戏名"
+                        android:textSize="23sp"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="活动内容"
+                        android:textColor="@color/gray"/>
+                </LinearLayout>
+                <!--右侧按钮-->
+                <Button
+                    style="@style/profit_button_blue_to_white"
+                    android:layout_width="80dp"
+                    android:layout_height="25dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="10dp"
+                    android:text="@string/down_now"/>
+            </RelativeLayout>
+
+            <!--灰色水平分割线-->
+            <View style="@style/gray_horizontal_line"/>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,118 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:2:11-47
+		INJECTED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:5:11-39
+		INJECTED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:3:11-69
+uses-sdk
+ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:7:5-9:40
+MERGED from [com.android.support:support-v4:23.1.1] E:\workspace\studio\GameAssistant\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.1] E:\workspace\studio\GameAssistant\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] E:\workspace\studio\GameAssistant\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] E:\workspace\studio\GameAssistant\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] E:\workspace\studio\GameAssistant\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] E:\workspace\studio\GameAssistant\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] E:\workspace\studio\GameAssistant\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.jiechic.library:xUtils:2.6.14] E:\workspace\studio\GameAssistant\app\build\intermediates\exploded-aar\com.jiechic.library\xUtils\2.6.14\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:14:5-83
+	android:name
+		ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:14:22-81
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:16:5-82
+	android:name
+		ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:16:30-80
+application
+ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:18:5-42:19
+MERGED from [com.android.support:support-v4:23.1.1] E:\workspace\studio\GameAssistant\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] E:\workspace\studio\GameAssistant\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] E:\workspace\studio\GameAssistant\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] E:\workspace\studio\GameAssistant\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] E:\workspace\studio\GameAssistant\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] E:\workspace\studio\GameAssistant\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.jiechic.library:xUtils:2.6.14] E:\workspace\studio\GameAssistant\app\build\intermediates\exploded-aar\com.jiechic.library\xUtils\2.6.14\AndroidManifest.xml:11:5-20
+	android:label
+		ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:21:9-41
+	android:allowBackup
+		ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:20:9-45
+	android:theme
+		ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:22:9-62
+activity#com.qianfeng.gameassistant.other.ui.MainActivity
+ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:23:9-31:20
+	android:label
+		ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:24:13-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:27:17-68
+	android:name
+		ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.qianfeng.gameassistant.other.ui.HomeActivity
+ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:32:9-58
+	android:name
+		ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:32:19-56
+activity#com.qianfeng.gameassistant.other.ui.GuideActivity
+ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:33:9-35:79
+	android:theme
+		ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:35:13-77
+	android:name
+		ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:34:13-51
+activity#com.qianfeng.gameassistant.module2.ui.GiftInfoActivity
+ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:36:9-64
+	android:name
+		ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:36:19-62
+activity#com.qianfeng.gameassistant.other.ui.LoginActivity
+ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:37:9-59
+	android:name
+		ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:37:19-57
+activity#com.qianfeng.gameassistant.module4.ui.PrizeDetailActivity
+ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:38:9-67
+	android:name
+		ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:38:19-65
+activity#com.qianfeng.gameassistant.module1.ui.GameDetailActivity
+ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:39:9-66
+	android:name
+		ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:39:19-64
+activity#com.qianfeng.gameassistant.module5.ui.MiniGameActivity
+ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:40:9-41:20
+	android:name
+		ADDED from E:\workspace\studio\GameAssistant\app\src\main\AndroidManifest.xml:40:19-62

@@ -1,0 +1,111 @@
+<resources>
+
+    <string name="app_name">GameAssistant</string>
+    <string name="cancel">取消</string>
+    <string name="upgrade">更新</string>
+    <string name="public_ok">确认</string>
+
+    <!-- 主页面 -->
+    <string name="profit">赚钱</string>
+    <string name="gift">礼包</string>
+    <string name="active">活动</string>
+    <string name="exchange">兑换</string>
+    <string name="my">我的</string>
+
+    <!-- 赚钱 -->
+    <string name="search_game">搜游戏</string>
+    <string name="sign_get_score">签到得分</string>
+    <string name="hodiernal_task">今日任务</string>
+    <string name="score_market">积分商城</string>
+    <string name="all_prize">奖%1dU币</string>
+
+    <string name="version">版本:</string>
+    <string name="people_count_down">%1$s人下载</string>
+
+    <string name="game_info">游戏信息</string>
+    <string name="game_gift">游戏礼包</string>
+    <string name="comment">评论</string>
+
+    <string name="game_detail">游戏详情</string>
+    <string name="game_info_text1">首次安装</string>
+    <string name="game_info_text2">创建角色并试玩5分钟</string>
+    <string name="game_info_text3">未完成</string>
+    <string name="game_info_text4">已完成</string>
+    <string name="game_info_text5">试玩信息</string>
+    <string name="game_info_text6">下载并试玩3分钟即可获得奖励</string>
+    <string name="game_info_text7">注:必须在72G游戏助手下载游戏才能获得奖励</string>
+    <string name="game_info_text8">游戏介绍</string>
+
+    <string name="guess_you_like">猜你喜欢</string>
+
+    <string name="count_down">%1$s次下载</string>
+
+    <string name="submit">提交</string>
+    <string name="download">下载</string>
+
+
+    <!-- 礼包 -->
+    <string name="gift_search_gift">搜礼包</string>
+    <string name="gift_type_mobile">手游礼包</string>
+    <string name="gift_type_web">页游礼包</string>
+    <string name="gift_list_btn1">淘号</string>
+    <string name="gift_list_btn2">免费领取</string>
+    <string name="gift_list_remain">剩余:%1d</string>
+    <string name="gift_info_detail">礼包详情</string>
+    <string name="gift_info_remains">剩余量:</string>
+    <string name="gift_info_validity">有效期:%1$s -- %2$s</string>
+    <string name="gift_info_used">适用于</string>
+    <string name="gift_info_type">类型:%1$s</string>
+    <string name="gift_info_size">大小:%1$s</string>
+    <string name="gift_info_content">礼包内容</string>
+    <string name="gift_info_get_method">领取方式</string>
+    <string name="gift_info_load">下载游戏</string>
+    <string name="gift_info_per">%1$d / %2$s</string>
+    <string name="gift_info_consume">%1$s U币</string>
+    <string name="share_blog">微博</string>
+    <string name="share_tiny_letter">微信</string>
+    <string name="share_friend">朋友圈</string>
+    <string name="share_qq_friend">QQ好友</string>
+
+    <!--活动-->
+    <string name="community_activity">社区活动</string>
+    <string name="total_join_user">%1$d人参加</string>
+
+    <!-- 积分商城 -->
+    <string name="prize_detail">奖品详情</string>
+    <string name="newest_prize">最新奖品</string>
+    <string name="hottest_prize">最热奖品</string>
+    <string name="exchange_list_btn">兑换</string>
+    <string name="platform">适用于:</string>
+    <string name="gift_info_gift_name">礼包名称</string>
+    <string name="gift_info_consume_string">U币</string>
+    <string name="game_type">游戏类型</string>
+    <string name="game_size">游戏大小</string>
+    <string name="base_right_string">右边</string>
+    <string name="base_title_bar_name_string">标题栏</string>
+    <string name="exchange_at_now">立即兑换(%1$sU币)</string>
+    <string name="remain_count">剩余数量:%1$s</string>
+
+    <!--用户登录界面-->
+    <string name="user_login">用户登录</string>
+    <string name="please_input_phone">请输入手机号</string>
+    <string name="please_input_password">请输入密码</string>
+    <string name="next_time_auto_login">下次自动登录</string>
+    <string name="forget_password">忘记密码了?</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="login_exception">登录异常,请联系客服:QQ800077265</string>
+
+    <!--用户中心-->
+    <string name="my_title">我的信息</string>
+    <string name="click_login">点击登录</string>
+    <string name="click_login_detail">点击登录,玩游戏赚U币</string>
+    <string name="experience">试玩</string>
+    <string name="my_task">我的任务</string>
+    <string name="grab_red_bag">微信抢红包</string>
+    <string name="invite_friend">邀请好友</string>
+    <string name="mini_game">休闲小游戏</string>
+    <string name="system_setup">系统设置</string>
+    <string name="down_now">立即下载</string>
+
+</resources>

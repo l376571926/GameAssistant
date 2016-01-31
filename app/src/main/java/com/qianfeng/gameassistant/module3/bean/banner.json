@@ -1,0 +1,22 @@
+{
+  "info": [
+    {
+      "id": "25",
+      "bname": "72G\u6e38\u620f\u52a9\u624b\u65b0\u7248\u4e0a\u7ebf",
+      "target": "3",
+      "target_id": "49",
+      "bimg": "http:\/\/i3.72g.com\/upload\/201512\/201512041834559608.jpg",
+      "px": "1"
+    },
+    {
+      "id": "24",
+      "bname": "\u300a\u653b\u57ce\u63a0\u5730\u300b\u706b\u70ed\u4e0a\u7ebf",
+      "target": "3",
+      "target_id": "48",
+      "bimg": "http:\/\/i3.72g.com\/upload\/201512\/201512041834132965.jpg",
+      "px": "2"
+    }
+  ],
+  "page": null,
+  "state": "success"
+}

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <!-- 搜索拦 -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_bar_height">
+
+        <!-- 左边头像 -->
+
+        <ImageView
+            android:id="@+id/gift_user_head_iv"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/ic_usercenter_avatar"/>
+
+        <!-- 搜索拦 -->
+
+        <EditText
+            android:id="@+id/gift_search_et"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_toRightOf="@id/gift_user_head_iv"
+            android:background="@drawable/shape_input_bg"
+            android:focusable="false"
+            android:hint="@string/gift_search_gift"
+            android:paddingLeft="20dp"/>
+
+        <!-- 搜索图标 -->
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/ic_input_search"/>
+    </RelativeLayout>
+    <!-- 搜索栏分割线 -->
+
+    <View style="@style/gray_horizontal_line"/>
+
+    <!-- 切换项 -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="@color/white"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <!-- 签到得分 -->
+
+        <TextView
+            android:id="@+id/profit_sign_get_score_tv"
+            style="@style/profit_button_blue_to_white"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:text="@string/sign_get_score"/>
+
+        <!-- 今日任务 -->
+
+        <TextView
+            android:id="@+id/profit_hodiernal_task_tv"
+            style="@style/profit_button_blue_to_white"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:text="@string/hodiernal_task"/>
+
+        <!-- 积分商城 -->
+
+        <TextView
+            android:id="@+id/profit_score_market_tv"
+            style="@style/profit_button_blue_to_white"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:text="@string/score_market"/>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/profit_content_lv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:descendantFocusability="blocksDescendants"/>
+
+</LinearLayout>

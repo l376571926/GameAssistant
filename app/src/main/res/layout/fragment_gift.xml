@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <!-- 搜索拦 -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_bar_height"
+        android:background="@color/white" >
+
+        <!-- 左边头像 -->
+
+        <ImageView
+            android:id="@+id/gift_user_head_iv"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/ic_usercenter_avatar" />
+
+        <!-- 搜索拦 -->
+
+        <EditText
+            android:id="@+id/gift_search_et"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_toRightOf="@id/gift_user_head_iv"
+            android:background="@drawable/shape_input_bg"
+            android:focusable="false"
+            android:hint="@string/gift_search_gift"
+            android:paddingLeft="20dp" />
+
+        <!-- 搜索图标 -->
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/ic_input_search" />
+    </RelativeLayout>
+    <!-- 搜索栏分割线 -->
+
+    <View style="@style/gray_horizontal_line" />
+
+    <!-- 切换项 -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="@color/white"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <!-- 手游礼包按钮 -->
+
+        <TextView
+            android:id="@+id/gift_type_mobile_tv"
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/selector_gift_type_left"
+            android:clickable="true"
+            android:gravity="center"
+            android:text="@string/gift_type_mobile"
+            android:textColor="@color/selector_btn_text_blue" />
+
+        <!-- 页游礼包按钮 -->
+
+        <TextView
+            android:id="@+id/gift_type_web_tv"
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/selector_gift_type_right"
+            android:clickable="true"
+            android:gravity="center"
+            android:text="@string/gift_type_web"
+            android:textColor="@color/selector_btn_text_blue" />
+    </LinearLayout>
+
+    <!-- 列表 -->
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/gift_type_vp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\workspace\studio\GameAssistant\app\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="61dae4d974097c3eb9be3ebdd2a94b84f8fc3326">
+        <dex dex="E:\workspace\studio\GameAssistant\app\build\intermediates\pre-dexed\debug\classes_e01e19b1da44390dfb38db30098c65a296812a9e.jar" />
+    </item>
+
+</items>

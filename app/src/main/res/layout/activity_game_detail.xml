@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+    <!--第一张游戏大图-->
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_gravity="center_horizontal"
+        android:background="#f1f0f6"/>
+    <!--第二张游戏小图-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical">
+        <!--游戏图片-->
+        <ImageView
+            android:id="@+id/activity_game_detail_icon_iv"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:background="#ff0"/>
+        <!--游戏文字-->
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:layout_toEndOf="@id/activity_game_detail_icon_iv"
+            android:layout_toRightOf="@id/activity_game_detail_icon_iv"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/activity_game_detail_name_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="name"/>
+
+            <TextView
+                android:id="@+id/activity_game_detail_score_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="score"/>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/activity_game_detail_version_iv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="version"/>
+
+                <View
+                    style="@style/blue_vertical_line"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"/>
+
+                <TextView
+                    android:id="@+id/activity_game_detail_size_iv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="size"/>
+
+                <TextView
+                    android:id="@+id/activity_game_detail_count_dl_iv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginStart="5dp"
+                    android:text="size"/>
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+    <!--第三行按钮三个-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/activity_game_detail_radio_button_center_iv"
+            android:layout_width="70dp"
+            android:layout_height="30dp"
+            android:layout_centerInParent="true"
+            android:background="#f1f4f6"
+            android:gravity="center"
+            android:text="@string/game_gift"/>
+
+        <TextView
+            android:layout_width="70dp"
+            android:layout_height="30dp"
+            android:layout_toStartOf="@id/activity_game_detail_radio_button_center_iv"
+            android:background="#f194f0"
+            android:gravity="center"
+            android:text="@string/game_info"/>
+
+        <TextView
+            android:layout_width="70dp"
+            android:layout_height="30dp"
+            android:layout_toEndOf="@id/activity_game_detail_radio_button_center_iv"
+            android:layout_toRightOf="@id/activity_game_detail_radio_button_center_iv"
+            android:background="#01f4f6"
+            android:gravity="center"
+            android:text="@string/comment"/>
+    </RelativeLayout>
+    <!--灰色分割线-->
+    <View
+        style="@style/gray_horizontal_line"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"/>
+    <!--首次安装-->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="310dp">
+        <!--ScrollView内的主LinearLayout-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:orientation="vertical">
+            <!--首次安装-->
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:background="@drawable/ic_launcher"/>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/game_info_text1"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/game_info_text2"/>
+                </LinearLayout>
+            </LinearLayout>
+            <!--试玩信息-->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/game_info_text5"/>
+            <!--下载并试玩3分钟即可获得奖励-->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/game_info_text6"/>
+            <!--注:必须在72G游戏助手下载游戏才能获得奖励-->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/game_info_text7"/>
+            <!--灰色分割线-->
+            <View
+                style="@style/gray_horizontal_line"
+                android:layout_marginTop="10dp"/>
+            <!--游戏介绍-->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:text="@string/game_info_text8"/>
+            <!--游戏介绍内容-->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="#f1f0f6"/>
+            <!--猜你喜欢-->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/guess_you_like"/>
+            <!--猜你喜欢横向列表-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:orientation="horizontal">
+                <!--猜你喜欢,横向列表,第一个游戏-->
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:background="#f1f0f6"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="game_name"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/count_down"/>
+
+
+                </LinearLayout>
+                <!--猜你喜欢,横向列表,第二个游戏-->
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:background="#f1f0f6"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="game_name"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/count_down"/>
+
+
+                </LinearLayout>
+                <!--猜你喜欢,横向列表,第三个游戏-->
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:background="#f1f0f6"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="game_name"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/count_down"/>
+
+
+                </LinearLayout>
+                <!--猜你喜欢,横向列表,第四个游戏-->
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:background="#f1f0f6"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="game_name"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/count_down"/>
+
+
+                </LinearLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+    <!--第八行按钮-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:background="#f1f0f6"
+            android:text="@string/submit"/>
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:background="#f1f0f6"
+            android:text="@string/submit"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>

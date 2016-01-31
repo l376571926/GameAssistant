@@ -1,0 +1,586 @@
+[
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_usercenter_tqlb.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_usercenter_tqlb.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_telephone.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_telephone.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_android.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_android.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_banner_dot_focus.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_banner_dot_focus.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_install_pressed.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_install_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_usercenter_myevents_hl.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_usercenter_myevents_hl.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_usercenter_xflb.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_usercenter_xflb.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_input_search.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_input_search.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_pyq.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_pyq.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_checkin_fh.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_checkin_fh.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_index_slidingmenu_nor.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_index_slidingmenu_nor.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\my_invar.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\my_invar.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_search_updata_pressed.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_search_updata_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_about_gn.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_about_gn.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\my_task.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\my_task.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_search_updata_normal.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_search_updata_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_hongbao.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\icon_hongbao.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_about_wx.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_about_wx.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_delete_normal.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_delete_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_guide_point.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_guide_point.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_update_pressed.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_update_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_blank_bg.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_blank_bg.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_usercenter_myaccount_hl.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_usercenter_myaccount_hl.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_my_right_hl.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_my_right_hl.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_usercenter_mygift_nor.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_usercenter_mygift_nor.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_usercenter_bbs_nor.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_usercenter_bbs_nor.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_uncheck.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\checkbox_uncheck.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_usercenter_mygame_nor.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_usercenter_mygame_nor.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_wx.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_wx.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_install_normal.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_install_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_usercenter_mymsg_hl.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_usercenter_mymsg_hl.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_usercenter_rmtj.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_usercenter_rmtj.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_wb.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_wb.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_stop_normal.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_stop_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_usercenter_ssfl.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_usercenter_ssfl.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_guide_point_on.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_guide_point_on.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_user_feedback.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_user_feedback.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_usercenter.jpg",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\bg_usercenter.jpg"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_usercenter_mymsg_nor.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_usercenter_mymsg_nor.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_usercenter_xwpc.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_usercenter_xwpc.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_usercenter_wcj.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_usercenter_wcj.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\week_top.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\week_top.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_ub.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\icon_ub.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_usercenter_jhm.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_usercenter_jhm.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lj.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_lj.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_usercenter_spgl.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_usercenter_spgl.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xsearch_msg_pull_arrow_down.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\xsearch_msg_pull_arrow_down.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mini_game.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_mini_game.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_mission_correct.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\icon_mission_correct.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_stop_pressed.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_stop_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_qq.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_qq.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_usercenter_mygift_hl.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_usercenter_mygift_hl.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_feedback.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_feedback.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_null_bg.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\icon_null_bg.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logistics_track_arrive.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\logistics_track_arrive.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logistics_track_point.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\logistics_track_point.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_my_activity.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_my_activity.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_update.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_update.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_index_slidingmenu_hl.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_index_slidingmenu_hl.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_view.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\icon_view.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_usercenter_yxph.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_usercenter_yxph.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_usercenter_avatar.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_usercenter_avatar.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_continue_normal.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_continue_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_usercenter_zttj.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_usercenter_zttj.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_about.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_about.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_my_test_paly.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_my_test_paly.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_usercenter_myaccount_nor.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_usercenter_myaccount_nor.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\prefect_info.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\prefect_info.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_add.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\icon_add.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\my_set.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\my_set.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_index_video_play_hl.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_index_video_play_hl.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_star_unselecte.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_star_unselecte.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_star_selected.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_star_selected.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_index_video_play_nor.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_index_video_play_nor.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_my_convert.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_my_convert.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_ios.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_ios.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clear.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_clear.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_user_updata.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_user_updata.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_update_normal.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_update_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_usercenter_mygame_hl.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_usercenter_mygame_hl.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_login_info.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_login_info.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_usercenter_yxzx.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_usercenter_yxzx.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_checked.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\checkbox_checked.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xsearch_loading.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\xsearch_loading.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_pull_logo.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_pull_logo.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_web.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_web.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_user_back.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_user_back.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_drift_btn.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\icon_drift_btn.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_usercenter_msg_num.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_usercenter_msg_num.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_usercenter_ycj.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_usercenter_ycj.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_my_gife.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_my_gife.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_play.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_play.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_usercenter_twgl.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_usercenter_twgl.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_my_right_nor.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_my_right_nor.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_usercenter_bbs_hl.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_usercenter_bbs_hl.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_about_qun.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_about_qun.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_continue_pressed.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_continue_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_usercenter_qblb.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_usercenter_qblb.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_delete_pressed.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_delete_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_banner_dot.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_banner_dot.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_invitation.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\bg_invitation.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_usercenter_myevents_nor.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_usercenter_myevents_nor.png"
+    }
+]

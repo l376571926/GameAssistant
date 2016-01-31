@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_list_bg.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\selector_list_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_gift_btn_yellow_normal.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\shape_gift_btn_yellow_normal.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_consume_bg.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\shape_consume_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_share.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\selector_share.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_gift_type_left_normal.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\shape_gift_type_left_normal.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_gift_info_icon_iv.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\shape_gift_info_icon_iv.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_gift_yellow_btn.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\selector_gift_yellow_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_adapter_profit_list_item_btn.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\selector_adapter_profit_list_item_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\select_ic_my_right.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\select_ic_my_right.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_button_shape_1_normal.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\shape_button_shape_1_normal.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_gift_type_left_selected.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\shape_gift_type_left_selected.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_shape_blue_to_white.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\selector_button_shape_blue_to_white.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yuan_jiao_input_et.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\yuan_jiao_input_et.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layer_progress.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\layer_progress.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_gift_btn_blue_selected.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\shape_gift_btn_blue_selected.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_home_rb_my.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\selector_home_rb_my.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_home_rb_gift.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\selector_home_rb_gift.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_login_button_pressed.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\shape_login_button_pressed.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_home_rb_exchange.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\selector_home_rb_exchange.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_home_rb_active.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\selector_home_rb_active.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_login_button_normal.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\shape_login_button_normal.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_gift_btn_blue_normal.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\shape_gift_btn_blue_normal.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_input_bg.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\shape_input_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_home_rb_profit.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\selector_home_rb_profit.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_text_color_blue_to_white.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\selector_text_color_blue_to_white.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_gift_blue_btn.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\selector_gift_blue_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_login_button.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\selector_login_button.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_title_back_iv.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\selector_title_back_iv.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_gift_type_right.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\selector_gift_type_right.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_gift_type_left.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\selector_gift_type_left.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_button_shape_1_pressed.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\shape_button_shape_1_pressed.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selecter_guide_btn.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\selecter_guide_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_gift_type_right_selected.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\shape_gift_type_right_selected.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_gift_type_right_normal.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\shape_gift_type_right_normal.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_gift_btn_yellow_selected.xml",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable\\shape_gift_btn_yellow_selected.xml"
+    }
+]

@@ -1,0 +1,74 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 主页面的RadioButton样式 -->
+    <style name="home_radio_btn_style">
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:button">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/selector_rb_text</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <!-- 灰色水平分割线 -->
+    <style name="gray_horizontal_line">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/split_color</item>
+    </style>
+
+    <!-- 灰色垂直分割线 -->
+    <style name="gray_vertical_line">
+        <item name="android:layout_width">1dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@color/gray</item>
+    </style>
+    <!-- 蓝色水平分割线 -->
+    <style name="blue_horizontal_line">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">#00f</item>
+    </style>
+    <!-- 蓝色垂直分割线 -->
+    <style name="blue_vertical_line">
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">1dp</item>
+        <item name="android:background">#00f</item>
+    </style>
+
+
+    <!-- 分享菜单的动画 -->
+    <style name="share_pop_anim">
+        <item name="android:windowEnterAnimation">@anim/anim_share_pop_in</item>
+        <item name="android:windowExitAnimation">@anim/anim_share_pop_out</item>
+    </style>
+
+    <!-- 更新对话框的样式 -->
+    <style name="upgrade_dialog_style" parent="@android:style/Theme.Dialog">
+
+        <!-- 去掉默认的标题栏 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 让背景透明 -->
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <!-- 赚钱页面上部三个按钮的样式,按钮填充色由蓝色变白色,文字颜色由白色变蓝色 -->
+    <style name="profit_button_blue_to_white">
+        <item name="android:background">@drawable/selector_button_shape_blue_to_white</item>
+        <item name="android:textColor">@drawable/selector_text_color_blue_to_white</item>
+        <item name="android:clickable">true</item>
+        <item name="android:gravity">center</item>
+
+    </style>
+
+    <!--用户注册输入框样式-->
+    <style name="act_register_input_et_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:background">@drawable/yuan_jiao_input_et</item>
+        <item name="android:padding">10dp</item>
+    </style>
+
+</resources>

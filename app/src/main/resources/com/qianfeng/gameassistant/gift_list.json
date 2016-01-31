@@ -1,0 +1,113 @@
+//格式化快捷键 Ctrl+Shift+F
+
+{
+  "info": [
+    {
+      "id": "4595",
+      "name": "《王者荣耀》72G媒体礼包",
+      "gamename": "王者荣耀",
+      "icon": "http:\/\/i3.72g.com\/upload\/201510\/201510261436311061.png",
+      "remain": 0,
+      "gifttype": "1",
+      "consume": "0",
+      "content": "双倍经验卡：1日\n双倍金币卡：1日\n2级符文:吸收\n2级符文:急速\n88金币"
+    },
+    {
+      "id": "4873",
+      "name": "《王者荣耀》新版本上线礼包",
+      "gamename": "王者荣耀",
+      "icon": "http:\/\/i4.72g.com\/upload\/201511\/201511181059572674.jpg",
+      "remain": 0,
+      "gifttype": "1",
+      "consume": "0",
+      "content": "双倍经验卡1天；\n2级符文：震击；\n2级符文：痛苦；\n钻石28\n"
+    },
+    {
+      "id": "4762",
+      "name": "《王者荣耀》感恩节礼包",
+      "gamename": "王者荣耀",
+      "icon": "http:\/\/i4.72g.com\/upload\/201511\/201511181059572674.jpg",
+      "remain": 0,
+      "gifttype": "1",
+      "consume": "0",
+      "content": "双倍经验卡：1日；\n2级符文:震击；\n2级符文:痛苦；\n钻石：28\n"
+    },
+    {
+      "id": "5009",
+      "name": "《逆天仙尊》删测强化礼包",
+      "gamename": "逆天仙尊",
+      "icon": "http:\/\/i5.72g.com\/upload\/201511\/201511161438067868.png",
+      "remain": 30,
+      "gifttype": "1",
+      "consume": "0",
+      "content": "强化石*100、元宝*100"
+    },
+    {
+      "id": "5008",
+      "name": "《武极天下》珍稀礼包",
+      "gamename": "武极天下",
+      "icon": "http:\/\/i5.72g.com\/upload\/201601\/201601041659439277.jpg",
+      "remain": 47,
+      "gifttype": "1",
+      "consume": "0",
+      "content": "回血药*100、复活丹*5"
+    },
+    {
+      "id": "5007",
+      "name": "《捕鱼大富翁》72G独家首测礼包",
+      "gamename": "捕鱼大富翁",
+      "icon": "http:\/\/i3.72g.com\/upload\/201601\/201601041628359942.jpg",
+      "remain": "490",
+      "gifttype": "1",
+      "consume": "0",
+      "content": "金币*500000 钻石*500  锁定*100 冰冻*36"
+    },
+    {
+      "id": "5006",
+      "name": "《捕鱼大富翁》新手礼包",
+      "gamename": "捕鱼大富翁",
+      "icon": "http:\/\/i3.72g.com\/upload\/201601\/201601041628359942.jpg",
+      "remain": "495",
+      "gifttype": "1",
+      "consume": "0",
+      "content": "金币*50000 钻石*50 锁定*15"
+    },
+    {
+      "id": "5005",
+      "name": "《姬魔恋战纪》二测激活码",
+      "gamename": "姬魔恋战纪",
+      "icon": "http:\/\/i4.72g.com\/upload\/201509\/201509011531302910.jpg",
+      "remain": "187",
+      "gifttype": "1",
+      "consume": "0",
+      "content": "姬魔恋战纪二测激活码"
+    },
+    {
+      "id": "5004",
+      "name": "《滴滴打人》限量礼包",
+      "gamename": "滴滴打人",
+      "icon": "http:\/\/i4.72g.com\/upload\/201512\/201512241807598315.jpg",
+      "remain": "0",
+      "gifttype": "1",
+      "consume": "0",
+      "content": "金币：888金币、8钻石"
+    },
+    {
+      "id": "5003",
+      "name": "《星辰奇缘》暖春贺岁不删档测试新手卡",
+      "gamename": "星辰奇缘",
+      "icon": "http:\/\/i3.72g.com\/upload\/201601\/201601081222022756.png",
+      "remain": "90",
+      "gifttype": "1",
+      "consume": "0",
+      "content": "星辰精华*10  藏宝图*2"
+    }
+  ],
+  "page": {
+    "total": 406,
+    "pagesize": 10,
+    "page": 1,
+    "page_total": 41
+  },
+  "state": "success"
+}

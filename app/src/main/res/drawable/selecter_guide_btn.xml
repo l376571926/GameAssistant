@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--选中,按下,选择这三种情况下显示的图片-->
+    <item android:drawable="@drawable/ic_guide_btn_pressed" android:state_selected="true" />
+    <item android:drawable="@drawable/ic_guide_btn_pressed" android:state_pressed="true" />
+    <item android:drawable="@drawable/ic_guide_btn_pressed" android:state_checked="true" />
+
+    <!--默认显示的图片-->
+    <item android:drawable="@drawable/ic_guide_btn_normal" />
+
+</selector>

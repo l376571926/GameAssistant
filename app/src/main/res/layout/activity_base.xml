@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <!-- 标题栏 -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_bar_height" >
+
+        <!-- 左边头像部分 -->
+        <ImageView
+            android:id="@+id/title_bar_left_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_margin="10dp"
+            android:background="@drawable/selector_title_back_iv"
+            android:visibility="invisible" />
+
+        <!-- 中间标题 -->
+
+        <TextView
+            android:id="@+id/title_bar_title_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/base_title_bar_name_string"
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:visibility="invisible" />
+
+        <RelativeLayout
+            android:id="@+id/gift_info_title_bar_rl"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_margin="10dp" >
+
+            <!-- 右边图标 -->
+
+            <ImageView
+                android:id="@+id/title_bar_right_iv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="invisible" />
+
+            <!-- 右边文字 -->
+
+            <TextView
+                android:id="@+id/title_bar_share_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/base_right_string"
+                android:textColor="@android:color/holo_blue_light"
+                android:textSize="16sp"
+                android:visibility="invisible" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <!-- 主要内容 -->
+
+    <LinearLayout
+        android:id="@+id/base_content_ll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffee99"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+</LinearLayout>
