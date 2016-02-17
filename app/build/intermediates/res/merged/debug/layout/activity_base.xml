@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:orientation="vertical" >
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
 
     <!-- 标题栏 -->
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="@dimen/title_bar_height" >
+        android:layout_height="@dimen/title_bar_height">
 
         <!-- 左边头像部分 -->
-        <ImageView
+
+        <ImageView
             android:id="@+id/title_bar_left_iv"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
             android:layout_margin="10dp"
             android:background="@drawable/selector_title_back_iv"
-            android:visibility="invisible" />
+            android:visibility="invisible"/>
 
         <!-- 中间标题 -->
 
@@ -31,7 +32,7 @@
             android:textColor="@android:color/black"
             android:textSize="20sp"
             android:textStyle="bold"
-            android:visibility="invisible" />
+            android:visibility="invisible"/>
 
         <RelativeLayout
             android:id="@+id/gift_info_title_bar_rl"
@@ -39,7 +40,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentRight="true"
             android:layout_centerVertical="true"
-            android:layout_margin="10dp" >
+            android:layout_margin="10dp">
 
             <!-- 右边图标 -->
 
@@ -47,7 +48,8 @@
                 android:id="@+id/title_bar_right_iv"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:visibility="invisible" />
+                android:background="@drawable/ic_launcher"
+                android:visibility="invisible"/>
 
             <!-- 右边文字 -->
 
@@ -58,7 +60,7 @@
                 android:text="@string/base_right_string"
                 android:textColor="@android:color/holo_blue_light"
                 android:textSize="16sp"
-                android:visibility="invisible" />
+                android:visibility="invisible"/>
         </RelativeLayout>
     </RelativeLayout>
 
@@ -69,7 +71,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="#ffee99"
-        android:orientation="vertical" >
+        android:orientation="vertical">
     </LinearLayout>
 
 </LinearLayout>

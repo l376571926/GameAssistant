@@ -7,7 +7,9 @@
        android:pivotX="50%"
        android:pivotY="10%"
        android:toXScale="1.4"
-       android:toYScale="1.4"/>
+       android:toYScale="1.4">
+
+</scale>
 
 
 

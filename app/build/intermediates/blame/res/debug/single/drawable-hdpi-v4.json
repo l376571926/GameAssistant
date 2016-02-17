@@ -56,20 +56,20 @@
         "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_checkin_fh.png"
     },
     {
-        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_index_slidingmenu_nor.png",
-        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_index_slidingmenu_nor.png"
-    },
-    {
         "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\my_invar.png",
         "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\my_invar.png"
     },
     {
-        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_search_updata_pressed.png",
-        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_search_updata_pressed.png"
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_index_slidingmenu_nor.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_index_slidingmenu_nor.png"
     },
     {
         "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_about_gn.png",
         "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_about_gn.png"
+    },
+    {
+        "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_search_updata_pressed.png",
+        "source": "E:\\workspace\\studio\\GameAssistant\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_search_updata_pressed.png"
     },
     {
         "merged": "E:\\workspace\\studio\\GameAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",

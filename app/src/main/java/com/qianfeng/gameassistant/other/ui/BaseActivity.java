@@ -39,7 +39,6 @@ public abstract class BaseActivity extends Activity
         tvTitle = (TextView) findViewById(R.id.title_bar_title_tv);
         tvShare = (TextView) findViewById(R.id.title_bar_share_tv);
         llContent = (LinearLayout) findViewById(R.id.base_content_ll);
-
         rlShare = (RelativeLayout) findViewById(R.id.gift_info_title_bar_rl);
 
         setDefaultEvent();
@@ -105,6 +104,9 @@ public abstract class BaseActivity extends Activity
         ivShare.setImageResource(selectorId);
     }
 
+    /**
+     * 监听
+     */
     protected void setDefaultEvent()
     {
         ivBack.setOnClickListener(new View.OnClickListener()
